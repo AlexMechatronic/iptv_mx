@@ -5,70 +5,536 @@ http://latino-webtv.ml/7878/201.m3u8
 http://latino-webtv.ml/7878/484.m3u8
 #EXTINF:-1 tvg-logo=”http://i58.tinypic.com/ibgsc0.jpg”,AMC HD
 http://latino-webtv.ml/7878/490.m3u8
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/jslztc.jpg”,Studio Universal
-http://latino-webtv.ml/7878/492.m3u8
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/2qu3ryx.jpg”,Universal Channel
-http://latino-webtv.ml/7878/207.m3u8
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/30mv6eu.jpg”,TNT HD
-http://latino-webtv.ml/7878/435.m3u8
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/vzhl37.jpg”,ESPN HD
-http://latino-webtv.ml/7878/516.m3u8
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/242bo6v.jpg”,ESPN 2
-http://latino-webtv.ml/7878/561.m3u8
-#EXTINF:-1 tvg-logo=”http://i62.tinypic.com/e12l42.jpg”,ESPN 3
-http://latino-webtv.ml/7878/520.m3u8
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/15detc.jpg”,Fox 1
-http://latino-webtv.ml/7878/415.m3u8
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/2yovqqh.jpg”,Space HD
-http://latino-webtv.ml/7878/445.m3u8
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/143kj0g.jpg”,History HD
-http://latino-webtv.ml/7878/353.m3u8
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/2u43ti1.jpg”,Fox Action HD
-http://latino-webtv.ml/7878/416.m3u8
-#EXTINF:-1 tvg-id=”960″ tvg-name=”HBO Latinoamerica” tvg-logo=”http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/207.png” group-title=”Cine”,HBO
-http://latino-webtv.ml:86/385/playlist.m3u8
-#EXTINF:-1 tvg-id=”961″ tvg-name=”HBO 2 Latinoamerica” tvg-logo=”http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/187.png” group-title=”Cine”,HBO 2
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/j0vajn.jpg”,Warner HD
-http://latino-webtv.ml/7878/205.m3u8
-#EXTINF:-1 tvg-logo=”http://i62.tinypic.com/2py9nhx.jpg”,Canal De Las Estrellas
-http://latino-webtv.ml/7878/52.m3u8
-#EXTINF:-1 tvg-logo=”http://i57.tinypic.com/2dw7wa8.jpg”,Investigation Discovery
-http://latino-webtv.ml/7878/263.m3u8
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/2hxvxol.jpg”,Golden HD
-http://latino-webtv.ml/7878/436.m3u8
-#EXTINF:-1 tvg-logo=”http://i58.tinypic.com/ibgsc0.jpg”,AMC HD
-http://latino-webtv.ml/7878/490.m3u8
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/jslztc.jpg”,Studio Universal
-http://latino-webtv.ml/7878/492.m3u8
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/2qu3ryx.jpg”,Universal Channel
-http://latino-webtv.ml/7878/207.m3u8
-#EXTINF:-1 tvg-logo=”http://i57.tinypic.com/2wgcf3r.jpg”,MTV
-http://latino-webtv.ml/7878/726.m3u8
-#EXTINF:-1 tvg-logo=”http://i62.tinypic.com/25hpt92.jpg”,Azteca 7
-http://latino-webtv.ml/7878/57.m3u8
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/2s8s3gl.jpg”,Animal Planet
-http://latino-webtv.ml/7878/373.m3u8
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/2j295ww.jpg”,Nick HD
-http://latino-webtv.ml/7878/315.m3u8
-#EXTINF:-1 tvg-logo=”http://i62.tinypic.com/4ug93n.jpg”,Cartoon Network
-http://latino-webtv.ml/7878/320.m3u8
-#EXTINF:-1 tvg-logo=”http://i57.tinypic.com/312bb7l.jpg”,Disney XD
-http://latino-webtv.ml/7878/322.m3u8
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/2psivma.jpg”,Disney Channel
-http://latino-webtv.ml/7878/312.m3u8
-#EXTINF:-1 tvg-logo=”http://i62.tinypic.com/23w8mrm.jpg”,Nicktoons
-http://latino-webtv.ml/7878/314.m3u8
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/dfczug.jpg”,Tooncast
-http://latino-webtv.ml/7878/328.m3u8
-#EXTINF:-1 tvg-logo=”http://i62.tinypic.com/2ilo2b.jpg”,Disney Junior
-http://latino-webtv.ml/7878/308.m3u8
-#EXTINF:-1 tvg-logo=”http://i58.tinypic.com/50lbhw.jpg”,Discovery Kids
-http://latino-webtv.ml/7878/303.m3u8
-#EXTINF:-1 tvg-logo=”http://i58.tinypic.com/219wd4x.jpg”,Boomerang
-http://latino-webtv.ml/7878/324.m3u8
-#EXTINF:-1 tvg-logo=”http://i63.tinypic.com/16m6ozq.jpg”,Distrito Comedia
-http://latino-webtv.ml/7878/272.m3u8
-#EXTINF:-1 tvg-logo=”http://i68.tinypic.com/qyb9tf.jpg”,Syfy
-http://latino-webtv.ml/7878/257.m3u8
-#EXTINF:-1 tvg-id=”876″ tvg-name=”Cartoon Network Latinoamerica” tvg-logo=”http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/133.png” group-title=”Infantiles”, Cartoon Network Latinoamerica
-http://latino-webtv.ml:86/421/playlist.m3u8
+
+﻿#EXTINF:-1" tvg-logo="http://media.entutele.com/channels/big/ae-hd.gif", A&E HD (211)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=62&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/adn-40-hd.gif", ADN 40 HD (140)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=40&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif", AMC (490)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=131&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc-hd.gif", AMC HD (444)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=328&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif", Animal Planet (373)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=88&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn-hd.gif", AXN HD (213)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=64&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif", AyM Sports (576)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=180&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif", AZ Clic HD (725)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=11&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif", AZ Corazón HD (250)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=70&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif", AZ Mundo HD (276)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=84&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7-hd.gif", Azteca 7 HD (1)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=2&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif", Bandamax (732)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=221&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif", Boomerang (324)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=115&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif", Canal de las Estrellas (102)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=17&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif", Canal de las Estrellas HD (2)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=402&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5.gif", Canal 5 (105)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=20&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif", Cartoon Network (320)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=112&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif", Cinecanal HD (430)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=149&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-w.gif", Cinecanal (480)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=337&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax.gif", Cinemax (481)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=158&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif", Comedy Central HD (217)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=340&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif", De Pelicula HD (442)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=121&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif", Discovery Channel (371)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=86&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif", Discovery Civilization (382)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=99&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif", Discovery Kids (303)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=109&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif", Discovery Science (381)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=98&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif", Discovery Theater HD (351)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=95&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif", Discovery Turbo (383)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=100&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif", Discovery World HD (356)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=101&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif", Disney Channel (312)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=113&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif", Disney Jr (308)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=118&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif", Disney XD (322)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=111&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif", Distrito Comedia (272)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=78&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e-entertainment-television.gif", E! Entertainment HD (255)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=55&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://i.imgur.com/iZBhZOO.jpg", El Garage TV (269)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=75&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif", El Gourmet (268)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=74&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif", ESPN Internacional HD (558)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=168&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif", ESPN 2 HD (561)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=169&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3-hd.gif", ESPN 3 HD (520)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=345&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif", ESPN + HD (516)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=167&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif", Foro TV (104)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=700&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif", Fox Channel (251)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=47&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif", FOX Action HD (416)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=336&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-hd.gif", Fox HD (201)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=46&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif", Fox Life (271)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=77&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif", FOX Movies HD (417)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=146&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-premium-series-hd.gif", FOX Series HD (415)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=139&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-hd.gif", Fox Sports HD (522)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=170&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif", Fox Sports 2 HD (527)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=172&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-3.gif", Fox Sport 3 (178)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=178&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif", FX (258)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=56&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx-hd.gif", FX HD (209)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=60&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif", Gala TV (109)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=24&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif", Glitz (270)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=76&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://i.imgur.com/ILh9Enp.jpg", Golf Channel Latin America (179)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=179&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif", Golden Edge (484)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=124&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif", Golden HD (436)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=122&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-hd.gif", History Channel HD (353)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=89&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health-hd.gif", Discovery H&H (374)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=96&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigacion-discovery.gif", ID (263)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=68&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/isat.gif", ISAT (495)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=135&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif", Lifetime (379)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=94&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif", Milenio TV (603)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=1252&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif", MTV HD (726)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=212&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif", MTV Hits (727)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=213&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live-hd.gif", MTV Live HD (701)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=211&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif", Multimedios Plus (167)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=1253&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif", Multimedios Monterrey (2305)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=2305&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif", National Geographic (377)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=91&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="https://s18.postimg.org/i5axtgpft/NATGEO.png", Nat Geo Kids (2373)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=2373&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild-hd.gif", Nat Geo Wild HD (355)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=92&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif", Nick (317)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=110&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-hd.gif", Nick HD (315)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=331&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif", Nick Jr (310)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=117&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://media.entutele.com/channels/big/once-tv.gif", Once TV (111)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=1942&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://i.imgur.com/soHz9Aj.jpg", Planet X HD (528)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=950&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif", Ritmoson (731)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=218&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif", Sony HD (203)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=48&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif", Space (491)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=130&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif", Space HD (445)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=129&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif", Studio Universal (492)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=132&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif", SyFy (257)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=59&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif", TBS Very Funny (273)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=81&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif", TCM (496)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=128&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/teleformula.gif", Teleformula (161)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=32&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif", Telehit HD (702)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=220&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif", The Film Zone HD (440)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=138&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif", Tiin (325)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=114&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif", TLC (386)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=97&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif", TLnovelas (275)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=83&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif", TNT (482)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=127&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif", TNT HD (435)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=126&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif", TNT Series (266)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=71&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif", Tooncast (328)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=108&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif", TruTV HD (215)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=79&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif", TVE (651)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=198&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif", Universal Channel (256)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=58&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif", Universal Channel HD (207)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=57&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1.gif", VH1 Classics (728)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=214&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif", VH1 HD (703)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=334&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-channel.gif", Warner Channel HD (205)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=52&format=HLSAD&f=.m3u8
+
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif", Wobi HD (387)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=102&format=HLSAD&f=.m3u8
+
+#EXTINF:-1,US: Starz Edge
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/110411.ts
+#EXTINF:-1,US: USA Network HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1096.ts
+#EXTINF:-1,US: SPIKE HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1092.ts
+#EXTINF:-1,US: National Geographic
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1095.ts
+#EXTINF:-1,US: HALLMARK
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1098.ts
+#EXTINF:-1,US: H2
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1099.ts
+#EXTINF:-1,US: FX HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1075.ts
+#EXTINF:-1,US: Food Network HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1079.ts
+#EXTINF:-1,US: DIY Network
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1100.ts
+#EXTINF:-1,US: Discovery Science HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1080.ts
+#EXTINF:-1,US: Cinemax ActionMax East
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1102.ts
+#EXTINF:-1,US: Cinemax 5 StarMax
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1103.ts
+#EXTINF:-1,US: Bein Sports USA HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1104.ts
+#EXTINF:-1,US: FIGHT SPORT
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2277.ts
+#EXTINF:-1,US: Sports net 360 HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/97.ts
+#EXTINF:-1,US: TBS HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/138.ts
+#EXTINF:-1,US: SEC Network
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3244.ts
+#EXTINF:-1,US: MSNBC HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3245.ts
+#EXTINF:-1,US: MLB Network
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3477.ts
+#EXTINF:-1,US: Fox SPORTS 506 HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/4009.ts
+#EXTINF:-1,US: ESPN 2
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/121.ts
+#EXTINF:-1,US: CNN HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/142.ts
+#EXTINF:-1,US: CINEMAX ACTION HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/4010.ts
+#EXTINF:-1,US: C-Span 3
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/4999.ts
+#EXTINF:-1,US: C-Span 2
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/4998.ts
+#EXTINF:-1,US: C-Span 1
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/4997.ts
+#EXTINF:-1,US: ANIMAL PLANET HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/132.ts
+#EXTINF:-1,US: NICKELODEN HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/891.ts
+#EXTINF:-1,US: NFL Network 1
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/5724.ts
+#EXTINF:-1,US: Bloomberg Europe
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/5763.ts
+#EXTINF:-1,US: Boomerang
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/5762.ts
+#EXTINF:-1,US: Cinemax East HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/5795.ts
+#EXTINF:-1,US: Cinemax MoreMax
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/5796.ts
+#EXTINF:-1,US: HGTV HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/5794.ts
+#EXTINF:-1,US: MTV Rocks
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/5757.ts
+#EXTINF:-1,US: OUTDOOR CHANNEL HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/5756.ts
+#EXTINF:-1,US: NBC
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/6621.ts
+#EXTINF:-1,US: Bloomberg TV FHD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/6978.ts
+#EXTINF:-1,US: MY9 TV
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7156.ts
+#EXTINF:-1,US: THE FLORIDA CHANNEL
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7146.ts
+#EXTINF:-1,US: WEATHERNATION
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7150.ts
+#EXTINF:-1,US: Yes Network
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7149.ts
+#EXTINF:-1,US: CNN US HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7254.ts
+#EXTINF:-1,US: ESPN News HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7255.ts
+#EXTINF:-1,US: ESPN U HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7256.ts
+#EXTINF:-1,US: ION Television East HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7257.ts
+#EXTINF:-1,US: Lifetime Movie Network HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7259.ts
+#EXTINF:-1,US: MSG HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7253.ts
+#EXTINF:-1,US: WGN America HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7260.ts
+#EXTINF:-1,US: WWE HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2.ts
+#EXTINF:-1,US: TLC HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/86.ts
+#EXTINF:-1,US: PAC-12 Washington
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/397.ts
+#EXTINF:-1,US: PAC-12 Oregon
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/395.ts
+#EXTINF:-1,US: PAC-12 Los Angeles
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/394.ts
+#EXTINF:-1,US: PAC-12 Bay Area
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/393.ts
+#EXTINF:-1,US: PAC-12 Arizona
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/392.ts
+#EXTINF:-1,US: NFL Network HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/90.ts
+#EXTINF:-1,US: NBCSN HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/98.ts
+#EXTINF:-1,US: Fox Sports 2 HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/13.ts
+#EXTINF:-1,US: Fox Sports 1 HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/14.ts
+#EXTINF:-1,US: ESPN
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/189.ts
+#EXTINF:-1,US: A&E HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/50.ts
+#EXTINF:-1,US: TNT HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/122.ts
+#EXTINF:-1,US: SYFY HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/124.ts
+#EXTINF:-1,US: USA Network
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/892.ts
+#EXTINF:-1,US: NBC Golf
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3485.ts
+#EXTINF:-1,US: Investigation Discovery
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3486.ts
+#EXTINF:-1,US: HISTORY HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/895.ts
+#EXTINF:-1,US: FOX NEWS HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/127.ts
+#EXTINF:-1,US: ESPN HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/129.ts
+#EXTINF:-1,US: CW HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/140.ts
+#EXTINF:-1,US: COMEDY CENTRAL HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/141.ts
+#EXTINF:-1,US: CBS
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/131.ts
+#EXTINF:-1,US: BRAVO HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/128.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/135.ts
+#EXTINF:-1,US: ABC HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/136.ts
+#EXTINF:-1,US: Tennis Channel HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2453.ts
+#EXTINF:-1,US: Starz Encore
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3487.ts
+#EXTINF:-1,US: Starz Etas
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3488.ts
+#EXTINF:-1,US: Starz Comedy
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3489.ts
+#EXTINF:-1,US: SHOWTIME HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3492.ts
+#EXTINF:-1,US: Showtime 2
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3493.ts
+#EXTINF:-1,US:   NBA TV HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3484.ts
+#EXTINF:-1,US: HBO Zone
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2454.ts
+#EXTINF:-1,US: HBO Signature
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2458.ts
+#EXTINF:-1,US: HBO HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2455.ts
+#EXTINF:-1,US: HBO Comedy
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2457.ts
+#EXTINF:-1,US: FXX
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2452.ts
+#EXTINF:-1,US: Fight HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3632.ts
+#EXTINF:-1,US: DW
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2901.ts
+#EXTINF:-1,US: DISCOVERY HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/139.ts
+#EXTINF:-1,US: CNBC
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3246.ts
+#EXTINF:-1,US: CBSN HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2222.ts
+#EXTINF:-1,US: AMC HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/179.ts
+#EXTINF:-1,US: NFL Network HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/5726.ts
+#EXTINF:-1,US: NFL REDZONE SD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/5725.ts
+#EXTINF:-1,US: Fox HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/6965.ts
+#EXTINF:-1,US: MSNBC
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7685.ts
+#EXTINF:-1,US: E!
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7775.ts
+#EXTINF:-1,US: Discovery Channel
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7917.ts
+#EXTINF:-1,US: DISNEY JR HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7918.ts
+#EXTINF:-1,US: Disney XD HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7919.ts
+#EXTINF:-1,US: AMERICAN HEROES CHANNEL
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7990.ts
+#EXTINF:-1,US: CNN HD *
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7982.ts
+#EXTINF:-1,US: GRIT TV
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7993.ts
+#EXTINF:-1,US: UFC Fight pass
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7985.ts
+#EXTINF:-1,US: OWN HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/8091.ts
+#EXTINF:-1,US: : BAYERN FC TV FHD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/8147.ts
+#EXTINF:-1,US: WWE HD backup
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/8409.ts
+#EXTINF:-1,US: CBS Sports Network HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/6760.ts
+#EXTINF:-1,US: Fox sport 1 backup
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/10182.ts
+#EXTINF:-1,US: DESTINATION AMERICA
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/10184.ts
+#EXTINF:-1,US: MTV HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/16088.ts
