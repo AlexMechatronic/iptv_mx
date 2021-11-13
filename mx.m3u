@@ -1,26 +1,19 @@
 #EXTM3U
-#EXTINF:-1,US: Starz Edge
+#EXTINF:-1 tvg-id="Starz Edge" tvg-country="US" tvg-language="English",US: Starz Edge
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/110411.ts
-#EXTINF:-1,US: USA Network HD
+#EXTINF:-1 tvg-id="Network HD" tvg-country="US" tvg-language="English",US: USA Network HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1096.ts
-#EXTINF:-1,US: SPIKE HD
+#EXTINF:-1 tvg-id="SPIKE HD" tvg-country="US" tvg-language="English",US: SPIKE HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1092.ts
-#EXTINF:-1,US: National Geographic
+#EXTINF:-1 tvg-id="National Geographic" tvg-country="US" tvg-language="English",US: National Geographic
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1095.ts
-#EXTINF:-1,US: HALLMARK
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1098.ts
-#EXTINF:-1,US: H2
+#EXTINF:-1 tvg-id="History" tvg-country="US" tvg-language="English",US: H2
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1099.ts
-#EXTINF:-1,US: FX HD
+#EXTINF:-1 tvg-id="FX HD" tvg-country="US" tvg-language="English",US: FX HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1075.ts
-#EXTINF:-1,US: Food Network HD
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1079.ts
-#EXTINF:-1,US: DIY Network
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1100.ts
-#EXTINF:-1,US: Discovery Science HD
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1080.ts
-#EXTINF:-1,US: Cinemax ActionMax East
+#EXTINF:-1 tvg-id="Cinemax" tvg-country="US" tvg-language="English",US: Cinemax ActionMax East
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1102.ts
+
 #EXTINF:-1,US: Cinemax 5 StarMax
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/1103.ts
 #EXTINF:-1,US: Bein Sports USA HD
@@ -45,12 +38,7 @@ http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/121.ts
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/142.ts
 #EXTINF:-1,US: CINEMAX ACTION HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/4010.ts
-#EXTINF:-1,US: C-Span 3
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/4999.ts
-#EXTINF:-1,US: C-Span 2
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/4998.ts
-#EXTINF:-1,US: C-Span 1
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/4997.ts
+
 #EXTINF:-1,US: ANIMAL PLANET HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/132.ts
 #EXTINF:-1,US: NICKELODEN HD
@@ -77,12 +65,7 @@ http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/6621.ts
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/6978.ts
 #EXTINF:-1,US: MY9 TV
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7156.ts
-#EXTINF:-1,US: THE FLORIDA CHANNEL
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7146.ts
-#EXTINF:-1,US: WEATHERNATION
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7150.ts
-#EXTINF:-1,US: Yes Network
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7149.ts
+
 #EXTINF:-1,US: CNN US HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7254.ts
 #EXTINF:-1,US: ESPN News HD
@@ -97,20 +80,11 @@ http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7259.ts
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7253.ts
 #EXTINF:-1,US: WGN America HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7260.ts
-#EXTINF:-1,US: WWE HD
+EXTINF:-1,US: WWE HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2.ts
 #EXTINF:-1,US: TLC HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/86.ts
-#EXTINF:-1,US: PAC-12 Washington
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/397.ts
-#EXTINF:-1,US: PAC-12 Oregon
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/395.ts
-#EXTINF:-1,US: PAC-12 Los Angeles
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/394.ts
-#EXTINF:-1,US: PAC-12 Bay Area
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/393.ts
-#EXTINF:-1,US: PAC-12 Arizona
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/392.ts
+
 #EXTINF:-1,US: NFL Network HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/90.ts
 #EXTINF:-1,US: NBCSN HD
@@ -151,14 +125,7 @@ http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/128.ts
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/135.ts
 #EXTINF:-1,US: ABC HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/136.ts
-#EXTINF:-1,US: Tennis Channel HD
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2453.ts
-#EXTINF:-1,US: Starz Encore
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3487.ts
-#EXTINF:-1,US: Starz Etas
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3488.ts
-#EXTINF:-1,US: Starz Comedy
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3489.ts
+
 #EXTINF:-1,US: SHOWTIME HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3492.ts
 #EXTINF:-1,US: Showtime 2
@@ -169,7 +136,7 @@ http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3484.ts
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2454.ts
 #EXTINF:-1,US: HBO Signature
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2458.ts
-#EXTINF:-1,US: HBO HD
+#EXTINF:-1 tvg-id="HBO HD" tvg-country="US" tvg-language="English",US: HBO HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2455.ts
 #EXTINF:-1,US: HBO Comedy
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2457.ts
@@ -181,6 +148,16 @@ http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3632.ts
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2901.ts
 #EXTINF:-1,US: DISCOVERY HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/139.ts
+#EXTINF:-1,US: CNBC
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3246.ts
+#EXTINF:-1,US: CBSN HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2222.ts
+#EXTINF:-1,US: AMC HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/179.ts
+#EXTINF:-1,US: NFL Network HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/5726.ts
+#EXTINF:-1,US: NFL REDZONE SD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/5725.ts
 #EXTINF:-1,US: CNBC
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3246.ts
 #EXTINF:-1,US: CBSN HD
@@ -211,12 +188,7 @@ http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7982.ts
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7993.ts
 #EXTINF:-1,US: UFC Fight pass
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/7985.ts
-#EXTINF:-1,US: OWN HD
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/8091.ts
-#EXTINF:-1,US: : BAYERN FC TV FHD
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/8147.ts
-#EXTINF:-1,US: WWE HD backup
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/8409.ts
+
 #EXTINF:-1,US: CBS Sports Network HD
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/6760.ts
 #EXTINF:-1,US: Fox sport 1 backup
